@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KafkaChat.Publisher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72d85d3c0bfb2d0a5dba69a8eba06969ca95608c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+555aa5be003407f840bce92bdbd5002ee7288163")]
 [assembly: System.Reflection.AssemblyProductAttribute("KafkaChat.Publisher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KafkaChat.Publisher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
